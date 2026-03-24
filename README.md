@@ -12,7 +12,10 @@ Real-time segmentation output Disease prediction with severity estimation AI-gen
 The objective of this project is to leverage deep learning for early and accurate detection of lung diseases like COVID-19, Pneumonia, and Lung Opacity through X-ray images using panoptic segmentation techniques. The project combines medical AI, web application development, and report automation to provide a complete diagnostic support system.
 
 # Formats
- - All the images are in Portable Network Graphics (PNG) file format and resolution are 299*299 pixels.
+```text
+- All the images are in Portable Network Graphics (PNG) file format and resolution are 299*299 pixels.
+```
+
    
 # Features
 - Upload Chest X-ray images (via UI)
@@ -36,11 +39,11 @@ U-Net architecture: Olaf Ronneberger et al. COVID dataset: Kaggle contributors P
 
 # TEAM MEMBER
 
-1.DEVENDRA VERMA 22MIM10108 (LEAD THE PROJECT)
-2.PREETAM VERMA 22MIM10115 
-3.VIPIN VERMA 22MIM10118
-4.VISHAL VERMA 22MIM10126
-5.AYUSH VERMA 22MIM10123
+1. DEVENDRA VERMA 22MIM10108 (LEAD THE PROJECT)
+2. PREETAM VERMA 22MIM10115 
+3. VIPIN VERMA 22MIM10118
+4. VISHAL VERMA 22MIM10126
+5. AYUSH VERMA 22MIM10123
 
 # Team Members & Contribution
 # Name Roll Number Contribution
